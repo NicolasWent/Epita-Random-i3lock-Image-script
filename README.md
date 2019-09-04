@@ -24,7 +24,7 @@ Then create a folder named images that you put in ~/afs/images
 
 If you don't wanna create a folder in this path, you can modify the path in line 3 of the script lock.sh. (you must put the /*.png at the end of the line)
 
-Put your images in the folder createn.
+Put your images in the folder createn. IMAGE MUST BE IN .PNG
 
 In your .bashrc (located using cd ~). Put the line: alias i3lock='~/afs/scripts/lock.sh'
 
